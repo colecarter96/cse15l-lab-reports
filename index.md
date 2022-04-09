@@ -12,3 +12,6 @@ Photo of our world
 *Italic Text*
 
 `thank you`
+
+`goodbye`
+
