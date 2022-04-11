@@ -66,7 +66,7 @@ When trying to run commands on the remote server it can seem like a lot of typin
 
 `ssh <username>@ieng6.ucsd.edu "ls"`
 
-For example would run the command on the server and then exit. You can also string commands together using semicolons.
+The command above would run the command on the server and then exit. You can also string commands together using semicolons.
 
 `cp Main.java; javac Main.java; java Main`
 
