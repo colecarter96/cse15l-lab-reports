@@ -5,6 +5,8 @@ Three Code Changes to *Read Files* Better
 1
 ---
 
+**The Change Made to The Program**
+
 ![Image](screenshots/Screen%20Shot%202022-04-24%20at%2010.20.56%20PM.png)
 
 **The Link and Failure Producing Output**
@@ -20,6 +22,8 @@ The relationship between the bug and the failure inducing output is that there i
 2 
 ---
 
+**The Change Made to The Program**
+
 ![Image](screenshots/Screen%20Shot%202022-04-24%20at%2010.27.38%20PM.png)
 
 **The Link and Failure Producing Output**
@@ -32,6 +36,8 @@ Before the change the failure producing output was, [https://test.com, www.fakel
 
 3
 ---
+
+**The Change Made to The Program**
 
 ![Image](screenshots/Screen%20Shot%202022-04-24%20at%2010.33.26%20PM.png)
 
