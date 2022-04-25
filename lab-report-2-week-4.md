@@ -2,6 +2,7 @@ Week 4 Lab Report
 ===
 Three Code Changes to *Read Files* Better
 ---
+
 1
 ---
 
