@@ -3,8 +3,8 @@ Week 4 Lab Report
 Three Code Changes to *Read Files* Better
 ---
       
+Written by Cole Carter
 
-      
 1
 ---
 
