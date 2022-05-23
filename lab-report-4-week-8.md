@@ -5,6 +5,11 @@ Written by Cole Carter
 ---
 
 
+[The Code I Wrote](https://github.com/colecarter96/markdown-parser)\
+[The Code I Reviewed](https://github.com/philliptwu/markdown-parser)
+
+
+
 Snippet 1
 ---
 
